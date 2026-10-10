@@ -161,7 +161,7 @@ export function SellerPanel({ path }: { path: string[] }) {
                     ? "Your business is verified"
                     : seller.kyc}
                 </h2>
-                <p>Manual review by the MandiSetu team</p>
+                <p>Manual review by the Roxodeal team</p>
               </div>
             </div>
             <div className="ms-document-grid">
